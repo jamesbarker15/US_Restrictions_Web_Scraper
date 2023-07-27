@@ -3,7 +3,7 @@ import selectorlib
 import smtplib
 import ssl
 import os
-
+#github.com/jamesbarker15
 URL = "https://ofac.treasury.gov/sanctions-programs-and-country-information"
 HEADERS = {"User-Agent":'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 '
                         '(KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36'}
@@ -50,7 +50,7 @@ def send_email(message):
     username = os.getenv("EMAIL")
     password = os.getenv("PASSWORD")
 
-    receiver = "james.barker132@gmail.com"
+    receiver = "webscraper132@gmail.com"
     context = ssl.create_default_context()
 
     with smtplib.SMTP_SSL(host, port, context=context) as server:
