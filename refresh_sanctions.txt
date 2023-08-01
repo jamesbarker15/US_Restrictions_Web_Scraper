@@ -1,18 +1,18 @@
 Sanctions Programs and Country Information Active Sanctions Programs Program Last Updated Afghanistan-Related Sanctions Feb 25
-2022 Balkans-Related Sanctions Jul 19
+2022 Balkans-Related Sanctions Jul 31
 2023 Belarus Sanctions Mar 24
 2023 Burma-Related Sanctions Jun 21
 2023 Central African Republic Sanctions Jan 26
 2023 Chinese Military Companies Sanctions Jun 01
 2022 Counter Narcotics Trafficking Sanctions Jul 19
-2023 Counter Terrorism Sanctions Jun 29
+2023 Counter Terrorism Sanctions Jul 31
 2023 Countering America's Adversaries Through Sanctions Act-Related Sanctions Apr 27
 2023 Cuba Sanctions Sep 26
 2022 Cyber-Related Sanctions May 16
 2023 Democratic Republic of the Congo-Related Sanctions Mar 17
 2022 Ethiopia-Related Sanctions Feb 08
 2022 Foreign Interference in a United States Election Sanctions Mar 03
-2022 Global Magnitsky Sanctions Apr 05
+2022 Global Magnitsky Sanctions Jul 28
 2023 Hong Kong-Related Sanctions Dec 20
 2021 Hostages and Wrongfully Detained U.S. Nationals Sanctions Jul 10
 2023 Iran Sanctions Jun 14
@@ -33,7 +33,7 @@ Sanctions Programs and Country Information Active Sanctions Programs Program Las
 2023 Syria-Related Sanctions (Executive Order 13894 of 2019) Feb 21
 2023 Transnational Criminal Organizations Jun 16
 2023 Ukraine-/Russia-related Sanctions Jul 20
-2023 Venezuela-Related Sanctions Jul 19
+2023 Venezuela-Related Sanctions Jul 28
 2023 Yemen-related Sanctions Nov 18
 2021 Zimbabwe Sanctions Dec 12
 2022 ​ Information on OFAC sanctions lists program tags and their definitions.​
